@@ -180,6 +180,9 @@ footer img {
     .logo{
         font-size: 2.5vw;
     }
+    header .right-side {
+        font-size: 2.5vw;
+    }
     .icons {
         flex-direction: column;
     }
